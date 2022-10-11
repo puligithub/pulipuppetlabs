@@ -1,2 +1,2 @@
 # pulipuppetlabs
-its my public puppet repor
+its my public puppet repo
